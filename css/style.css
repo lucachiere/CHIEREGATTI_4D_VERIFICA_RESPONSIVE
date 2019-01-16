@@ -1,0 +1,55 @@
+
+			.uno{
+				background-color: pink;
+				display: block;
+				width = 100%;
+				padding: 40px;
+				color: white;
+			}
+			ul {
+			  float: left;
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  width: 200px;
+			  background-color: pink;
+			  border-bottom: 5px white;
+			}
+
+			li a {
+			  border-bottom: 7px solid white;
+			  display: block;
+			  color: hotpink;
+			  padding: 8px 16px;
+			  text-decoration: none;
+			}
+
+			li a:hover {
+			  background-color: #555;
+			  color: white;
+			}
+			iframe{
+				display:inline-block;
+				position: relative;
+				margin-top: 10px;
+				padding: 30px;
+				width: 50%;
+				height:40%;
+				border-color: pink;
+				color: hotpink;
+			}
+			.due{
+				background-color: pink;
+				float: right;
+				height = 10px;
+				padding: 80px;
+				color: hotpink;
+			}
+			footer{
+				margin-top: 200px;
+				background-color: pink;
+				height:60px;
+				color: hotpink;
+				text-align: center;
+			}
+
